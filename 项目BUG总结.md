@@ -20,7 +20,8 @@
 20. **`所有的搜索康要注意是否去除前后空格或者特殊处理`** 
 21. **`查询搜索框的时候要注意清空查询条件`** 
 
-Git
 
-git remote update origin --prume // 获取最新远程分支
+## Git
+
+**`git remote update origin --prume`** // 获取最新远程分支
 
